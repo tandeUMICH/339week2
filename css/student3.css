@@ -19,7 +19,7 @@ body{
 	padding: 15px;
 	margin: 20px;
 	border: 2px solid black;
-    background-color: aqua;
+    background-color: yellow;
     border-radius: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     display: inline-block;
@@ -28,7 +28,7 @@ body{
 main img{
 	width: 24%;
 	padding: 15px;
-	border: 4px dashed green;
+	border: 4px dashed blue;
 }
 
  
